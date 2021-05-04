@@ -32,7 +32,6 @@ body{
 }
 
 .t2{
-  width 50%;
   background-color: grey;
   margin:10px 10px;
   display:inline-block;
@@ -40,7 +39,6 @@ body{
 }
 
 .t3{
-  width 80%;
   background-color: grey;
   margin:10px 10px;
   display:inline-block;
@@ -48,7 +46,6 @@ body{
 }
 
 .t4{
-  width 10%;
   background-color: grey;
   margin:10px 10px;
   display:inline-block;
